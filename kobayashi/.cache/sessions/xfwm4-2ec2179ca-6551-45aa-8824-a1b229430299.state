@@ -1,0 +1,13 @@
+[CLIENT] 0x1200003
+  [CLIENT_ID] 26a180036-e087-4ae2-b0e1-ca189c404e88
+  [CLIENT_LEADER] 0x1200001
+  [WINDOW_ROLE] xfce4-terminal-1515264445--1336680613
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - kobayashi@rabbit: ~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (1,260,967,507)
+  [GEOMETRY-MAXIMIZED] (1,260,967,507)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080

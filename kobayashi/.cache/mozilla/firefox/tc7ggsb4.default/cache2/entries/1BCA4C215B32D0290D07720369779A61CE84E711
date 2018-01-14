@@ -1,0 +1,3371 @@
+.hot-manga .thumbnails, .thumbnail-clip {
+    line-height: 1.42857143;
+    display: block;
+    margin-bottom: 5px
+}
+
+@media (min-width: 768px) and (max-width: 2520px) {
+    .navbar-nav > li:hover .hoverblock {
+        display: block
+    }
+
+    #boxCatFish, #mobile-catfish, .android-avd {
+        display: none
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1600px) {
+    .noneclass {
+        display: none
+    }
+}
+
+@media (max-width: 768px) {
+    .ads-place img, .app-download img, .history-read img {
+        width: auto !important
+    }
+
+    .paddfixboth-mobile {
+        padding-right: 0 !important;
+        padding-left: 0 !important
+    }
+
+    .signup-button a span.text-login {
+        display: none
+    }
+
+    .searchpaddfix {
+        margin-right: 10px !important
+    }
+
+    .signup-button a i {
+        margin-right: 12px !important
+    }
+
+    .search-item {
+        text-align: left !important;
+        margin-bottom: 5px !important
+    }
+
+    .ads-place, .app-download, .history-read {
+        text-align: center
+    }
+
+    .user-circle {
+        height: 45px
+    }
+
+    .hot-manga .thumbnails img {
+        margin: 0 auto;
+        height: 252px !important
+    }
+
+    .navbar-collapse {
+        background-color: #372D3F;
+        max-height: 40px !important
+    }
+
+    .caption-clip {
+        height: 54px
+    }
+
+    .list-watch a {
+        display: inline-block
+    }
+
+    .navbar-nav > li > a {
+        padding: 10px 8px !important;
+        font-size: 12px !important
+    }
+
+    .chapter-title {
+        font-size: 30px
+    }
+
+    .each-page .pageeach, .page-mangaads img {
+        width: 100%
+    }
+
+    .play-icon {
+        top: 50px !important;
+        left: 110px !important
+    }
+
+    #back-top {
+        display: none !important
+    }
+}
+
+@media (max-width: 540px) {
+    .notice-mess {
+        display: block !important
+    }
+
+    .paddfixboth-mobile {
+        padding-right: 0 !important;
+        padding-left: 0 !important
+    }
+
+    .signup-button a span.text-login {
+        display: inherit
+    }
+
+    .hot-manga .thumbnails img {
+        margin: 0 auto
+    }
+
+    .navbar-collapse {
+        background-color: #372D3F;
+        max-height: 340px !important
+    }
+
+    #back-top {
+        display: none !important
+    }
+
+    .android-avd {
+        display: block
+    }
+
+    .user-circle .norti-user {
+        right: 155px !important
+    }
+
+    .update-martop {
+        margin-top: 45px !important
+    }
+
+    .app-download {
+        margin-top: 8px !important
+    }
+
+    .app-download a {
+        width: 160px !important
+    }
+
+    .caption-clip {
+        height: 54px
+    }
+
+    .list-watch a {
+        display: inline-block
+    }
+
+    .notice-mess {
+        width: 100% !important
+    }
+}
+
+@media (max-width: 480px) {
+    .paddfixboth-mobile {
+        padding-right: 0 !important;
+        padding-left: 0 !important
+    }
+
+    #boxCatFish, #mobile-catfish {
+        position: fixed;
+        bottom: 0;
+        width: 320px;
+        height: 50px;
+        left: 50%;
+        margin-left: -160px;
+        z-index: 10
+    }
+
+    #boxCatFish .CloseBtn, #mobile-catfish #close-mobile-catfish {
+        position: absolute;
+        top: 1px;
+        z-index: 11;
+        background: #FFF;
+        padding: 2px
+    }
+
+    #mobile-catfish #close-mobile-catfish {
+        display: none;
+        right: 1px
+    }
+
+    #boxCatFish .CloseBtn {
+        right: 0
+    }
+
+    #boxCatFish .CatFish iframe {
+        margin: 0 auto;
+        text-align: center;
+        height: 100px
+    }
+
+    .signup-button {
+        text-align: center
+    }
+
+    a.tooltips span {
+        display: none
+    }
+
+    .hot-manga .thumbnails img {
+        margin: 0 auto
+    }
+
+    .navbar-collapse {
+        background-color: #372D3F;
+        max-height: 340px !important
+    }
+
+    .caption-clip {
+        height: 54px
+    }
+
+    .list-watch a {
+        display: inline-block
+    }
+
+    .chapter-title {
+        font-size: 25px
+    }
+
+    .page-mangaads img {
+        width: 100%
+    }
+
+    .each-page img {
+        width: 100% !important
+    }
+
+    .chapter-titlebig {
+        font-size: 25px !important
+    }
+
+    .anine-new img {
+        width: 90px !important
+    }
+
+    .table-responsive {
+        margin-top: 10px
+    }
+
+    .cover-detail {
+        display: block !important
+    }
+
+    #back-top {
+        display: none !important
+    }
+
+    .chapter-control {
+        width: 277px;
+        margin: 25px auto
+    }
+
+    .android-avd {
+        display: block
+    }
+
+    .update-martop {
+        margin-top: 45px !important
+    }
+
+    .user-circle .norti-user {
+        right: 155px !important
+    }
+
+    .top-qc {
+        display: none !important
+    }
+
+    .notice-mess, .top-qcmobile {
+        display: block !important
+    }
+
+    .title-manga {
+        margin-top: 10px !important
+    }
+
+    .app-download {
+        margin-top: 8px !important
+    }
+
+    .app-download a {
+        width: 160px !important
+    }
+
+    .notice-mess {
+        width: 100% !important
+    }
+}
+
+@media (max-width: 360px) {
+    .notice-mess {
+        display: block !important
+    }
+
+    .paddfixboth-mobile {
+        padding-right: 0 !important;
+        padding-left: 0 !important
+    }
+
+    #boxCatFish, #mobile-catfish {
+        position: fixed;
+        bottom: 0;
+        width: 320px;
+        height: 50px;
+        left: 50%;
+        margin-left: -160px;
+        z-index: 10
+    }
+
+    #boxCatFish .CloseBtn, #mobile-catfish #close-mobile-catfish {
+        position: absolute;
+        top: 1px;
+        z-index: 11;
+        background: #FFF;
+        padding: 2px
+    }
+
+    #mobile-catfish #close-mobile-catfish {
+        display: none;
+        right: 1px
+    }
+
+    #boxCatFish .CloseBtn {
+        right: 0
+    }
+
+    #boxCatFish .CatFish iframe {
+        margin: 0 auto;
+        text-align: center;
+        height: 100px
+    }
+
+    .signup-button {
+        text-align: center
+    }
+
+    .search-item {
+        text-align: left !important;
+        margin-bottom: 5px !important
+    }
+
+    a.tooltips span {
+        display: none
+    }
+
+    .chapter-control {
+        width: 277px;
+        margin: 25px auto
+    }
+
+    #back-top {
+        display: none !important
+    }
+
+    .search-result .pagesearch, .search-resulted .pagesearch {
+        text-align: left !important;
+        margin-top: 5px !important
+    }
+
+    .form-author, .form-manga {
+        width: 40% !important
+    }
+
+    .cover-detail img, .page-mangaads img {
+        width: 100%
+    }
+
+    .total-rating {
+        margin-left: 20px
+    }
+
+    .follow {
+        background-position: 70px 7px !important
+    }
+
+    .Following {
+        background-position: 88px 7px !important
+    }
+
+    .navbar-collapse {
+        max-height: 340px !important;
+        background-color: #372D3F
+    }
+
+    .navbar-form .input-group {
+        margin: 0 auto
+    }
+
+    .hot-manga .thumbnails img {
+        margin: 0 auto;
+        height: auto !important
+    }
+
+    .caption-anime h4 {
+        font-size: 14px !important;
+        height: 32px
+    }
+
+    .caption-clip {
+        height: 54px
+    }
+
+    .list-watch a {
+        display: inline-block
+    }
+
+    .chapter-title {
+        font-size: 25px
+    }
+
+    .each-page img {
+        width: 100% !important
+    }
+
+    .chapter-titlebig {
+        font-size: 25px !important
+    }
+
+    .anine-new img {
+        width: 90px !important
+    }
+
+    .table-responsive {
+        margin-top: 10px
+    }
+
+    .play-icon {
+        top: 25px !important;
+        left: 70px !important
+    }
+
+    .info-release span {
+        margin-right: 20px !important
+    }
+
+    .navbar {
+        height: auto !important
+    }
+
+    .android-avd {
+        display: block
+    }
+
+    .update-martop {
+        margin-top: 0 !important
+    }
+
+    .user-circle .norti-user {
+        right: 155px !important
+    }
+
+    .bgmenucolor {
+        background-size: 100% 50px !important
+    }
+
+    .top-qc {
+        display: none !important
+    }
+
+    .top-qcmobile {
+        display: block !important
+    }
+
+    .app-download {
+        margin-top: 8px !important
+    }
+
+    .app-download a {
+        width: 160px !important
+    }
+
+    .save-manga img {
+        width: auto !important
+    }
+
+    .notice-mess {
+        width: 100% !important
+    }
+}
+
+@media (max-width: 320px) {
+    .notice-mess {
+        width: 100% !important;
+        display: block !important
+    }
+
+    .app-download {
+        margin-top: 8px !important
+    }
+
+    .app-download a {
+        width: 160px !important
+    }
+
+    .paddfixboth-mobile {
+        padding-right: 0 !important;
+        padding-left: 0 !important
+    }
+
+    #boxCatFish .CloseBtn, #mobile-catfish #close-mobile-catfish {
+        position: absolute;
+        top: 1px;
+        z-index: 11;
+        background: #FFF;
+        padding: 2px
+    }
+
+    #boxCatFish, #mobile-catfish {
+        position: fixed;
+        bottom: 0;
+        width: 320px;
+        height: 50px;
+        left: 50%;
+        margin-left: -160px;
+        z-index: 10
+    }
+
+    #boxCatFish .CloseBtn {
+        right: 0
+    }
+
+    #boxCatFish .CatFish iframe {
+        margin: 0 auto;
+        text-align: center;
+        height: 100px
+    }
+
+    #mobile-catfish #close-mobile-catfish {
+        display: none;
+        right: 1px
+    }
+
+    .signup-button {
+        text-align: center
+    }
+
+    .search-item {
+        text-align: left !important;
+        margin-bottom: 5px !important
+    }
+
+    a.tooltips span {
+        display: none
+    }
+
+    .top-qc {
+        display: none !important
+    }
+
+    .top-qcmobile {
+        display: block !important
+    }
+
+    .chapter-control {
+        width: 260px;
+        margin: 25px auto
+    }
+
+    .navbar-collapse {
+        max-height: 340px !important;
+        background-color: #372D3F
+    }
+
+    .android-avd {
+        display: block
+    }
+
+    .update-martop {
+        margin-top: 0 !important
+    }
+
+    .navbar {
+        height: auto !important
+    }
+
+    .bgmenucolor {
+        background-size: 100% 50px !important
+    }
+
+    .search-result .pagesearch, .search-resulted .pagesearch {
+        text-align: left !important;
+        margin-top: 5px !important
+    }
+
+    .form-author, .form-manga {
+        width: 40% !important
+    }
+
+    .cover-detail img, .page-mangaads img {
+        width: 100%
+    }
+
+    .user-circle .norti-user {
+        right: 155px !important
+    }
+
+    #back-top {
+        display: none !important
+    }
+
+    .total-rating {
+        margin-left: 20px
+    }
+
+    .follow {
+        background-position: 70px 7px !important
+    }
+
+    .Following {
+        background-position: 88px 7px !important
+    }
+
+    .navbar-form .input-group {
+        margin: 0 auto
+    }
+
+    .hot-manga .thumbnails img {
+        height: auto !important;
+        margin: 0 auto
+    }
+
+    .caption-anime h4 {
+        font-size: 13px !important;
+        height: 32px
+    }
+
+    .caption-clip {
+        height: 54px
+    }
+
+    .list-watch a {
+        display: inline-block
+    }
+
+    .chapter-title {
+        font-size: 25px
+    }
+
+    .each-page img {
+        width: 100% !important
+    }
+
+    .chapter-titlebig {
+        font-size: 25px !important
+    }
+
+    .anine-new img {
+        width: 90px !important
+    }
+
+    .info-release span {
+        margin-right: 10px !important
+    }
+
+    .table-responsive {
+        margin-top: 10px
+    }
+}
+
+.navbar-nav > li > a, .notice-mess a {
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+a {
+    text-decoration: none !important;
+    outline: transparent !important
+}
+
+.btn-green, .dropdown-manga, .form-link, a.tooltips, a.tooltips-anime, a.tooltips-listm {
+    outline: 0
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif !important;
+    padding-top: 46px;;
+}
+
+.navbar-brand {
+    padding: 0 15px !important;
+    margin-top: -2px
+}
+
+.bgmenucolor {
+    background: url(images/bgmenu.png)
+}
+
+.navbar {
+    height: 46px
+}
+
+.navbar-nav > li > a {
+    padding-top: 11px !important;
+    text-transform: uppercase
+}
+
+.navbar-nav > li > a:active, .navbar-nav > li > a:focus, .navbar-nav > li > a:hover {
+    background: 0 0 !important
+}
+
+.update-list, .update-list2 {
+    background-color: #1e202a;
+    overflow: hidden
+}
+
+.slider-fixtop {
+    margin-top: 0
+}
+
+.notice-mess {
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 5px;
+    width: 33.1%
+}
+
+.notice-mess a {
+    position: relative;
+    padding: 5px 10px;
+    display: block
+}
+
+.notice-mess a:hover {
+    text-decoration: underline !important
+}
+
+#back-top a, .StarRating li a, .pagination .page, a.tooltips-anime:hover, a.tooltips-listm:hover, a.tooltips:hover {
+    text-decoration: none
+}
+
+.update-list {
+    padding-top: 0;
+    padding-bottom: 20px;
+    height: 410px
+}
+
+.update-list2 {
+    padding-top: 25px;
+    padding-bottom: 0
+}
+
+.responsive {
+    height: 315px
+}
+
+.hot-manga .thumbnails {
+    padding: 2px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out
+}
+
+.hot-manga .thumbnails img {
+    width: 165px;
+    height: 247px;
+    border: 3px solid #1e202a;
+    -webkit-transition: border-color .3s ease;
+    -moz-transition: border-color .3s ease;
+    -o-transition: border-color .3s ease;
+    -ms-transition: border-color .3s ease;
+    transition: border-color .3s ease
+}
+
+.hot-manga .thumbnails img:hover {
+    border: 3px solid #29c6ab
+}
+
+.thumbnail-clip {
+    background-color: #fff;
+    border-bottom: 1px solid #0e977f;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out
+}
+
+.thumbnail-clip img {
+    width: 100%
+}
+
+a.tooltips span, a.tooltips-anime span {
+    width: 300px;
+    z-index: 10;
+    padding: 14px 20px
+}
+
+.caption .manga-title {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #29c6ab;
+    text-align: center;
+    font-size: 18px;
+    opacity: .7;
+    -webkit-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -ms-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out
+}
+
+.caption .manga-title:hover {
+    opacity: 1
+}
+
+.caption .chapter {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0;
+    opacity: .7;
+    -webkit-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -ms-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out
+}
+
+.caption .chapter:hover {
+    opacity: 1
+}
+
+.search-button {
+    background-color: transparent;
+    border: 0 solid transparent
+}
+
+.tilte-update, .title-body, .title-cate {
+    border-bottom: 1px solid #258f80;
+    padding-bottom: 5px;
+    font-size: 24px
+}
+
+.image-search {
+    margin-right: -44px;
+    margin-top: 3px
+}
+
+.input-group-btn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    z-index: 3
+}
+
+.input-group, .thumbnails {
+    position: relative
+}
+
+.tilte-update {
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 15px
+}
+
+.title-body {
+    margin-top: 15px
+}
+
+.title-cate {
+    margin-top: 33px
+}
+
+.manga-newest {
+    margin-top: 5px;
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: #222;
+    transition: .3s
+}
+
+.manga-newest:hover {
+    color: #543C67
+}
+
+.manga-newest .chapter {
+    font-weight: 400;
+    color: #7c7c7c;
+    transition: .3s
+}
+
+.manga-newest .chapter:hover {
+    color: #a1a1a1
+}
+
+.description font, .description span, .descriptionhot font {
+    color: #0e977f
+}
+
+.description strong {
+    color: #0e977f;
+    font-weight: 400
+}
+
+.descriptionhot {
+    line-height: 25px
+}
+
+a.tooltips-anime:hover span, a.tooltips-listm:hover span, a.tooltips:hover span {
+    color: #111;
+    border: 1px solid #DCA;
+    background: #fffAF0
+}
+
+a.tooltips strong {
+    line-height: 30px
+}
+
+a.tooltips span {
+    display: none;
+    line-height: 16px;
+    position: absolute;
+    top: 0;
+    left: 144px;
+    background: #fffAF0
+}
+
+a.tooltips:hover span {
+    display: block;
+    position: absolute
+}
+
+a.tooltips-anime strong {
+    line-height: 30px
+}
+
+a.tooltips-anime span {
+    display: none;
+    line-height: 16px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 163px
+}
+
+a.tooltips-anime:hover span {
+    display: inline;
+    position: absolute
+}
+
+.mangaleft {
+    float: left;
+    margin-top: 5px;
+    margin-right: 10px;
+    width: 117px
+}
+
+a.tooltips-listm strong {
+    line-height: 30px
+}
+
+a.tooltips-listm span {
+    z-index: 10;
+    display: none;
+    padding: 14px 20px;
+    width: 400px;
+    line-height: 16px;
+    position: absolute;
+    top: -23px;
+    left: 200px
+}
+
+a.tooltips-listm:hover span {
+    display: inline;
+    position: absolute
+}
+
+.callout {
+    z-index: 20;
+    position: absolute;
+    top: 30px;
+    border: 0;
+    left: -12px;
+    width: auto !important
+}
+
+a.tooltips span {
+    border-radius: 4px
+}
+
+.description-update {
+    font-size: 15px;
+    line-height: 23px;
+    margin-top: 10px
+}
+
+.description-update strong {
+    color: #0e977f;
+    font-weight: 400
+}
+
+.description-update a {
+    color: #222;
+    transition: .3s
+}
+
+.description-update a:hover {
+    color: #a1a1a1
+}
+
+.description-update a.current, .description-update span {
+    color: #0e977f
+}
+
+.lineborder {
+    border-bottom: 1px solid #d2d2d2;
+    padding-bottom: 15px
+}
+
+.history-read {
+    margin-top: 27px;
+    margin-bottom: 5px;
+    position: relative
+}
+
+.history-read .notification-number {
+    position: absolute;
+    top: -15px;
+    right: -10px;
+    padding: 3px;
+    background: #E1141E;
+    border-radius: 4px;
+    color: #fff
+}
+
+.save-manga img {
+    position: relative;
+    top: -2px
+}
+
+.eps, .newsest-icon, .play-icon {
+    position: absolute
+}
+
+.ads-place img {
+    width: 100%
+}
+
+.most-reading {
+    padding: 10px;
+    border: 2px solid #fba500
+}
+
+.mostread-title {
+    margin-bottom: 15px;
+    margin-top: 5px
+}
+
+.description-most strong {
+    color: #7c7c7c;
+    font-weight: 400
+}
+
+.description-most span {
+    color: #0e977f;
+    font-weight: 700
+}
+
+.media-topfix {
+    padding-top: 7px
+}
+
+.media-topfix img {
+    width: 54px
+}
+
+.media-smalltop {
+    margin-top: 0 !important
+}
+
+.fanpage-fb {
+    margin: 10px auto;
+    text-align: center
+}
+
+.fanpage-fbs {
+    margin: 0 auto 15px;
+    text-align: center
+}
+
+.fanpage-fb .fanpage-iframe {
+    width: 300px;
+    margin: 0 auto
+}
+
+.ads-tiki, .ads-tiki img {
+    width: 100%
+}
+
+.cate-title {
+    margin-top: 10px;
+    margin-bottom: 5px
+}
+
+.cate-total {
+    margin-top: 17px;
+    text-align: right
+}
+
+.ads-tiki, .list-watch p:last-child, .list-watched p:last-child, .pagelist, .pagelistaninews, .pagelistcate, .save-manga, .social-icon {
+    text-align: center
+}
+
+.cate-total a, .cate-total a:hover {
+    color: #0e977f
+}
+
+.cate-total span {
+    color: #7c7c7c
+}
+
+.category {
+    border: 1px solid #d2d2d2;
+    background-color: #f0f0f0;
+    padding: 10px
+}
+
+.category a {
+    color: #222;
+    width: 100%;
+    margin-bottom: 5px;
+    display: block;
+    transition: .3s
+}
+
+.category a span {
+    color: #7c7c7c
+}
+
+.category a:hover {
+    color: #29c6ab
+}
+
+.ads-tiki {
+    margin-top: 15px
+}
+
+.caption-anime h4 {
+    margin-top: 5px;
+    font-size: 16px;
+    color: #222
+}
+
+.eps {
+    color: #fff;
+    background: #249c82;
+    padding: 3px;
+    bottom: 0;
+    left: 0
+}
+
+.caption-clip h4 {
+    margin-top: 0;
+    font-size: 16px;
+    color: #222
+}
+
+.play-icon {
+    top: 25px;
+    left: 70px;
+    width: auto !important
+}
+
+footer {
+    border-bottom: 3px solid #0e977f
+}
+
+.footercontainer {
+    margin-top: 0;
+    border-top: 1px solid #d1d1d1;
+    margin-bottom: 6px;
+    padding-top: 18px
+}
+
+.social-icon {
+    margin-top: 7px
+}
+
+.social-icon a {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    color: #222
+}
+
+.social-icon a:hover {
+    color: #222
+}
+
+.social-icon a:last-child {
+    margin-right: 0
+}
+
+.social-icon span {
+    color: #222;
+    border-bottom: 1px dashed #222
+}
+
+.vechai-intro span {
+    color: #0e977f
+}
+
+.app-download {
+    margin-top: 0
+}
+
+.app-download img {
+    width: 100%
+}
+
+.app-download a {
+    display: inline-block;
+    width: 120px
+}
+
+.newsest-icon {
+    bottom: 0;
+    right: 0;
+    width: auto !important
+}
+
+.content, .manga-relate .thumbnails img, .thumbnails img, table a {
+    width: 100%
+}
+
+.breadcrumb {
+    padding: 0 !important;
+    background: 0 0 !important;
+    margin-bottom: 5px !important;
+    margin-top: 5px
+}
+
+.breadcrumb a {
+    color: #fff !important
+}
+
+.breadcrumb > li + li:before {
+    content: '>>' !important
+}
+
+.breadcrumb-contain {
+    background-color: #1e202a;
+    padding-bottom: 0;
+    border-bottom: 1px solid #e1e1e1
+}
+
+.watch-title {
+    margin-top: 34px
+}
+
+.watch-title h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px
+}
+
+.list-watch a, .list-watched a {
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block
+}
+
+.list-watch {
+    margin-top: 10px
+}
+
+.list-watch a {
+    padding: 0 12px;
+    color: #222
+}
+
+.list-watch a:hover {
+    color: #258f80
+}
+
+.list-watch a.active {
+    color: #258f80;
+    padding-left: 0
+}
+
+.list-watch .well {
+    margin-bottom: 10px !important
+}
+
+.list-watched {
+    margin-top: 20px
+}
+
+.list-watched a {
+    padding: 0 12px;
+    color: #222
+}
+
+.list-watched a:hover {
+    color: #258f80
+}
+
+.list-watched a.active {
+    color: #258f80;
+    padding-left: 0
+}
+
+.list-watched .well {
+    margin-bottom: 0 !important
+}
+
+table {
+    margin-top: 10px
+}
+
+table .table-head {
+    background: #e1e1e1
+}
+
+table td {
+    position: relative
+}
+
+table a {
+    color: #222;
+    display: block;
+    transition: .3s
+}
+
+table a:hover {
+    color: #29c6ab
+}
+
+.pagelist {
+    margin-bottom: 15px
+}
+
+.pagelistcate {
+    margin-top: 15px
+}
+
+.pagination {
+    margin: 0 !important
+}
+
+.pagination li a {
+    background: #e1e1e1 !important;
+    color: #222 !important;
+    margin-right: 7px;
+    padding: 2px 9px !important
+}
+
+.pagination li a.active, .pagination li a:hover {
+    background: #258f80 !important;
+    color: #fff !important
+}
+
+.rating {
+    border: none;
+    float: left
+}
+
+.chapter-list .date-release, .content .date-release, .text-right {
+    float: right
+}
+
+.rating > input {
+    display: none
+}
+
+.rating > label:before {
+    margin: 1px;
+    font-size: 1.25em;
+    font-family: FontAwesome;
+    display: inline-block;
+    content: "\f005"
+}
+
+.rating > .half:before {
+    content: "\f089";
+    position: absolute
+}
+
+.rating > label {
+    color: #ddd;
+    float: right
+}
+
+.rating:not(:checked) > label:hover, .rating:not(:checked) > label:hover ~ label, .rating > input:checked ~ label {
+    color: gold
+}
+
+.rating > input:checked + label:hover, .rating > input:checked ~ label:hover, .rating > input:checked ~ label:hover ~ label, .rating > label:hover ~ input:checked ~ label {
+    color: #FFED85
+}
+
+.content {
+    overflow: auto;
+    position: relative;
+    max-height: 600px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 15px 0 0 25px
+}
+
+.content a {
+    color: #222;
+    transition: .3s
+}
+
+.content a:hover {
+    color: #29c6ab
+}
+
+.content a:visited {
+    color: #d2d2d2
+}
+
+.content p {
+    border-bottom: 1px dashed #d2d2d2;
+    padding-bottom: 3px
+}
+
+.content p:last-child {
+    border-bottom: 0 solid transparent
+}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background-color: #0e977f !important
+}
+
+.manga-detail {
+    margin-top: 33px !important
+}
+
+.manga-detail .media-body .title-manga {
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 25px
+}
+
+.total-rating p {
+    margin-bottom: 0;
+    margin-top: 3px
+}
+
+.total-rating p span {
+    color: #0e977f
+}
+
+.collapse-contain {
+    border-bottom: 3px solid #0e977f;
+    color: #0e977f;
+    margin-bottom: 0;
+    font-weight: 700
+}
+
+.manga-content {
+    background-color: #fff;
+    padding: 10px 20px
+}
+
+.manga-content p {
+    margin-bottom: 5px
+}
+
+.manga-content .manga-collapse .clearboth {
+    margin-top: 10px
+}
+
+.manga-content .manga-collapse .truncate_more_link {
+    background-color: #29C8AC;
+    padding: 5px 10px;
+    color: #fff
+}
+
+.mar-top {
+    margin-top: 15px
+}
+
+.total-chapter {
+    margin-bottom: 15px
+}
+
+.total-chapter a.collapsed .collapse-container {
+    border-bottom: 3px solid #d2d2d2;
+    color: #222;
+    margin-bottom: 0;
+    font-weight: 700
+}
+
+.total-chapter a .collapse-container {
+    border-bottom: 3px solid #0e977f;
+    color: #0e977f;
+    margin-bottom: 0;
+    font-weight: 700
+}
+
+.chapter-list {
+    padding: 15px 25px
+}
+
+.chapter-list a {
+    color: #222;
+    transition: .3s
+}
+
+.chapter-list a:hover {
+    color: #29c6ab
+}
+
+.chapter-list a:visited {
+    color: #b1b1b1
+}
+
+.chapter-list p {
+    border-bottom: 1px dashed #d2d2d2;
+    padding-bottom: 3px
+}
+
+.chapter-list p:last-child {
+    border-bottom: 0 solid transparent
+}
+
+.fixpadding {
+    padding-left: 0 !important
+}
+
+.save-manga:active:before, .save-manga:focus:before, .save-manga:hover:before {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1)
+}
+
+.save-manga:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #29C8AC;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out
+}
+
+.anine-new, .checkbox-search, .save-manga {
+    position: relative
+}
+
+.save-manga {
+    background-color: #14BEA0;
+    padding: 3px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 38px;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s
+}
+
+.btn-default, .btn-green, .button-login {
+    transition: .3s
+}
+
+.save-manga img {
+    width: 30px;
+    height: 30px;
+    margin-right: 3px
+}
+
+.save-manga a {
+    color: #fff;
+    display: block;
+    width: 100%
+}
+
+.save-manga a:hover {
+    color: #fff
+}
+
+.follow-manga {
+    margin-top: 33px
+}
+
+.follow-manga .report-manga {
+    color: #222;
+    border-bottom: 1px solid #d2d2d2;
+    padding-bottom: 5px
+}
+
+.reading-detail {
+    background-color: #1E202A
+}
+
+.chapter-back, .chapter-next {
+    padding: 6px 20px;
+    background-color: #0e977f;
+    width: 100px
+}
+
+.chapter-title, .chapter-titlebig {
+    color: #fff;
+    font-size: 30px;
+    margin-top: 15px
+}
+
+.chapter-control {
+    margin-top: 25px;
+    text-align: right
+}
+
+.chapter-control .dropdown-toggle {
+    color: #fff;
+    border-bottom: 1px solid #0e977f !important
+}
+
+.chapter-back {
+    color: #fff !important;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center
+}
+
+.chapter-back a, .chapter-back a:hover {
+    color: #fff
+}
+
+.chapter-next {
+    color: #fff !important;
+    margin-left: 1px;
+    text-align: center
+}
+
+.chapter-next a, .chapter-next a:hover {
+    color: #fff
+}
+
+.each-page {
+    margin-top: 25px;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    background: #FFFFFF;
+}
+
+.each-page .pageeach {
+    margin-bottom: 10px
+}
+
+.each-page img {
+    max-width: 100%;
+    margin: 0 auto 15px
+}
+
+.die-link, .die-linknd {
+    margin-top: 0;
+    text-align: center
+}
+
+.dropdown-manga {
+    height: 31px;
+    width: 100%;
+    -webkit-appearance: none;
+    padding-left: 5px;
+    background: url(images/toolbar-dropdown-icon.png) no-repeat #fff;
+    background-position-y: 8px;
+    background-position-x: 293px;
+    box-shadow: none
+}
+
+.paddfixboth {
+    padding-right: 0 !important;
+    padding-left: 0 !important
+}
+
+.paddselectfix {
+    padding-right: 5px !important;
+    padding-left: 5px !important
+}
+
+.die-link .btn-diepage, .die-linknd .btn-diepage {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #F73D1F;
+    color: #fff;
+    box-shadow: none
+}
+
+.rightalign {
+    text-align: left
+}
+
+.page-mangaads {
+    width: 100%;
+    text-align: center
+}
+
+.die-link {
+    margin-bottom: 5px
+}
+
+.die-link .btn-diepage {
+    border-color: transparent;
+    outline: 0
+}
+
+.die-link .btn-diepage i {
+    margin-right: 5px
+}
+
+.die-linknd {
+    margin-bottom: 0
+}
+
+.die-linknd .btn-diepage {
+    border-color: #F73D1F
+}
+
+.btn-green, .modal-header {
+    background-color: #0e977f
+}
+
+.modal-title {
+    text-align: left;
+    color: #fff
+}
+
+.btn-green, .close {
+    color: #fff !important
+}
+
+.close {
+    opacity: 1 !important
+}
+
+.modal-footer {
+    text-align: left !important
+}
+
+.btn-green {
+    border-color: #0e977f;
+    box-shadow: none
+}
+
+.btn-green:hover {
+    background-color: #29C8AC
+}
+
+.form-link {
+    width: 100%;
+    box-shadow: none;
+    padding: 5px
+}
+
+.footerreader {
+    margin-top: 0;
+    border-top: 1px solid #D1D1D1;
+    margin-bottom: 8px;
+    padding-top: 18px
+}
+
+.form-login, .form-search {
+    border: 0 solid transparent
+}
+
+.login-contain {
+    margin-top: 20px
+}
+
+.form-login {
+    border-bottom: 1px solid #d2d2d2;
+    width: 50%;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    outline: 0
+}
+
+.form-manga, .form-search {
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    outline: 0
+}
+
+.form-search {
+    border-bottom: 1px solid #d2d2d2;
+    box-shadow: none !important
+}
+
+.form-manga {
+    border: 0 solid transparent;
+    border-bottom: 1px solid #d2d2d2;
+    box-shadow: none !important;
+    margin-right: 20px;
+    width: 25%
+}
+
+.form-manga:focus {
+    color: #0e977f;
+    border-bottom: 1px solid #0e977f
+}
+
+.form-author {
+    border: 0 solid transparent;
+    border-bottom: 1px solid #d2d2d2;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    outline: 0;
+    width: 25%
+}
+
+.form-author:focus {
+    color: #0e977f;
+    border-bottom: 1px solid #0e977f
+}
+
+.button-login {
+    background-color: #0e977f;
+    color: #fff;
+    border: 1px solid transparent;
+    padding: 5px;
+    outline: 0
+}
+
+.button-login:hover {
+    background-color: #14BEA0
+}
+
+.button-find, .button-remove {
+    background-color: #0e977f;
+    color: #fff;
+    border: 1px solid #0e977f;
+    padding: 5px 10px
+}
+
+.button-find {
+    margin-right: 10px
+}
+
+.checkbox-search input[type=checkbox]:checked + label, .registry a, .registry a:hover {
+    color: #0e977f
+}
+
+.cate-result, .search-result, .search-resulted {
+    border-bottom: 2px solid #d2d2d2
+}
+
+.registry {
+    margin-top: 10px
+}
+
+.checkbox-search {
+    min-height: 20px;
+    margin-bottom: 0;
+    cursor: pointer;
+    padding: 0;
+    margin-right: 20px
+}
+
+.checkbox-search input[type=checkbox] {
+    margin-right: 5px
+}
+
+.checkbox-search label {
+    font-weight: 400
+}
+
+.search-item {
+    text-align: right;
+    margin-bottom: 15px
+}
+
+.search-result {
+    margin-top: 20px;
+    background: #f2f2f2;
+    padding: 5px
+}
+
+.search-result .search-order {
+    margin-top: 3px;
+    margin-left: 10px
+}
+
+.search-result .search-order a {
+    font-weight: 700;
+    padding: 5px 10px;
+    color: #222;
+    transition: .5s
+}
+
+.search-result .search-order a.active, .search-result .search-order a:hover {
+    background-color: #ECA90A;
+    color: #fff
+}
+
+.search-result .pagesearch {
+    text-align: right;
+    margin-top: 2px
+}
+
+.search-resulted {
+    margin-top: 10px;
+    background: #f2f2f2;
+    padding: 5px
+}
+
+.search-resulted .search-order {
+    margin-top: 3px;
+    margin-left: 10px
+}
+
+.search-resulted .search-order a {
+    font-weight: 700;
+    padding: 5px 10px;
+    color: #222;
+    transition: .5s
+}
+
+.search-resulted .search-order a.active, .search-resulted .search-order a:hover {
+    background-color: #ECA90A;
+    color: #fff
+}
+
+.search-resulted .pagesearch {
+    text-align: right;
+    margin-top: 2px
+}
+
+#back-top a, .BtnConts, .anine-new, .history-more, .user-circle .norti-user {
+    text-align: center
+}
+
+.cate-result {
+    margin-top: 10px;
+    background: #f2f2f2;
+    padding: 5px
+}
+
+.newsani-cotain, .title-user {
+    border-bottom: 1px solid #d2d2d2
+}
+
+.cate-result .cate-order {
+    margin-top: 8px;
+    margin-left: 10px;
+    padding-bottom: 8px
+}
+
+.cate-result .cate-order a {
+    font-weight: 700;
+    padding: 5px 10px;
+    color: #222;
+    transition: .5s
+}
+
+.cate-result .cate-order a.active, .cate-result .cate-order a:hover {
+    background-color: #FBA500;
+    color: #fff
+}
+
+.mangalist-result {
+    margin-top: 30px
+}
+
+.mangalist-result .manga-order a {
+    font-weight: 700;
+    padding: 5px 10px;
+    color: #222;
+    transition: .5s
+}
+
+.mangalist-result .manga-order a.active, .mangalist-result .manga-order a:hover {
+    background-color: #FBA500;
+    color: #fff
+}
+
+.manga-result {
+    margin-top: 15px
+}
+
+.slick-slide {
+    padding-left: 2px
+}
+
+.margintop {
+    margin-top: -2px
+}
+
+.login-social img {
+    margin-bottom: 10px
+}
+
+.cate-manga {
+    margin-top: 15px
+}
+
+.anine-new .anime, .anine-new .manga {
+    position: absolute;
+    color: #fff;
+    padding: 5px;
+    text-transform: uppercase;
+    bottom: 0;
+    left: 0
+}
+
+.anine-new img {
+    width: 300px;
+    margin: 0 auto
+}
+
+.anine-new .anime {
+    background: #51B8C6
+}
+
+.anine-new .manga {
+    background: #372D3F
+}
+
+.anine-news {
+    color: #0e977f;
+    margin-top: 0;
+    margin-bottom: 5px
+}
+
+.info-release span {
+    margin-right: 25px
+}
+
+.info-release i {
+    color: #9F224E
+}
+
+.anime-description {
+    margin-top: 5px
+}
+
+.newsani-cotain {
+    padding-bottom: 10px;
+    margin-bottom: 10px
+}
+
+.aninew-contain img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto
+}
+
+.aninew-relate {
+    border-top: 1px solid #d2d2d2;
+    padding-top: 10px;
+    margin-top: 15px
+}
+
+.aninew-relate h3 {
+    margin-top: 0;
+    margin-bottom: 5px
+}
+
+.aninew-relate a {
+    width: 100%;
+    display: block;
+    color: #0e977f;
+    margin-bottom: 5px
+}
+
+.aninew-relate a .anime, .aninew-relate a .manga {
+    color: #fff;
+    padding: 1px 3px;
+    margin-left: 5px;
+    text-transform: uppercase
+}
+
+.aninew-relate a .anime {
+    background: #51B8C6
+}
+
+.aninew-relate a .manga {
+    background: #372D3F
+}
+
+.aninew-relate a:hover {
+    color: #0e977f
+}
+
+.welcome-contain {
+    padding: 5px
+}
+
+.welcome-contain .view-allmess {
+    display: block;
+    width: 100%;
+    color: #fff;
+    text-align: center
+}
+
+.username {
+    margin-top: 2px;
+    color: #fff;
+    float: left;
+    margin-left: 5px
+}
+
+.status-click {
+    float: right;
+    margin-top: 6px
+}
+
+.status-click a {
+    color: #FFF;
+    margin-right: 8px;
+    border-right: 1px solid #fff;
+    padding-right: 8px
+}
+
+.status-click a:hover {
+    color: #fff
+}
+
+.status-click a:last-child {
+    border-right: 0 solid transparent
+}
+
+.follower-status {
+    padding: 5px;
+    background-color: #fff
+}
+
+.follower-status .description-flow strong {
+    color: #0e977f;
+    font-weight: 400
+}
+
+.follower-status .description-flow a {
+    color: #222
+}
+
+.follower-status .description-flow .chapter {
+    color: #7C7C7C
+}
+
+.user-circle {
+    padding: 0 0 5px !important;
+    margin-right: 15px;
+    position: relative
+}
+
+.user-circle img {
+    width: 30px;
+    margin-top: -5px;
+    margin-right: 5px
+}
+
+.user-circle .norti-user {
+    position: absolute;
+    top: 0;
+    right: 6px;
+    padding: 0 2px;
+    background: #E1141E;
+    border-radius: 4px;
+    color: #FFF;
+    font-size: 12px;
+    width: 18px
+}
+
+.button-submit, .list-control li a {
+    background-color: #0e977f;
+    transition: .3s
+}
+
+.title-user {
+    font-size: 24px;
+    padding-bottom: 5px
+}
+
+.title-user img {
+    width: 50px
+}
+
+.list-control {
+    padding: 0
+}
+
+.list-control li {
+    display: block;
+    border-bottom: 1px solid #fff
+}
+
+.list-control li a {
+    padding: 10px;
+    color: #fff;
+    width: 100%;
+    display: block;
+    opacity: 1
+}
+
+.list-control li a:hover {
+    opacity: .8
+}
+
+.title-control {
+    border-bottom: 1px solid #d2d2d2;
+    margin-top: 43px;
+    padding-bottom: 5px
+}
+
+.form-groupuser {
+    margin-bottom: 15px
+}
+
+.form-groupuser label {
+    color: #0e977f;
+    font-weight: 400
+}
+
+.form-groupuser .infouser {
+    border: none;
+    border-bottom: 1px dashed #d2d2d2;
+    width: 100%;
+    outline: 0
+}
+
+.button-submit {
+    padding: 5px 10px;
+    color: #fff;
+    border: none;
+    outline: 0;
+    margin-bottom: 20px
+}
+
+.button-submit:hover {
+    background: #14BEA0
+}
+
+.description-user span {
+    color: #0e977f
+}
+
+.description-user a {
+    color: #222
+}
+
+.media-followuser {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #d2d2d2;
+    margin-top: 8px !important
+}
+
+.media-followuser:last-child {
+    border-bottom: 0 solid transparent
+}
+
+.media-flowuser {
+    border-bottom: 1px solid #d2d2d2;
+    margin-top: 7px !important;
+    padding-bottom: 10px !important
+}
+
+.media-flowuser:last-child {
+    border-bottom: 0 solid transparent
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fff
+}
+
+.history-manga {
+    padding: 0 5px;
+    border: 2px solid #0e977f;
+    margin-bottom: 10px
+}
+
+.hotup-list {
+    line-height: 25px
+}
+
+.hotup-list a {
+    color: #7C7C7C;
+    transition: .3s
+}
+
+.hotup-list a.recently, .hotup-list a:hover {
+    color: #29c6ab
+}
+
+.hotup-list a:before {
+    content: "Â·";
+    position: relative;
+    font-size: 30px;
+    margin-right: 5px;
+    top: 6px
+}
+
+.history-more {
+    background-color: #29C8AC;
+    color: #fff !important;
+    width: 100%;
+    display: block;
+    font-weight: 700;
+    padding: 10px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    opacity: 1;
+    transition: .3s
+}
+
+.history-more:hover {
+    opacity: .8
+}
+
+#back-top {
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+    z-index: 999
+}
+
+#back-top a {
+    display: block;
+    text-transform: uppercase;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s
+}
+
+#back-top span {
+    width: 100px;
+    height: 70px;
+    display: block;
+    margin-bottom: 7px;
+    background: url(images/scroll-topfix.png) center no-repeat;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    background-size: 50px 50px;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s
+}
+
+.history-description span {
+    color: #0e977f
+}
+
+.history-description a {
+    color: #222 !important
+}
+
+.history-tit {
+    color: #222;
+    margin-top: 0;
+    margin-bottom: 5px
+}
+
+.cover-manga img {
+    width: 117px
+}
+
+.well a.Active {
+    background: #258f80 !important;
+    color: #fff !important
+}
+
+.loader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    display: none !important;
+    background: url(images/loadvideo.gif) center no-repeat #fff
+}
+
+.BoxIframe {
+    width: 100%;
+    height: 250px;
+    overflow: scroll;
+    border: none;
+    margin: 15px 0 20px
+}
+
+@media screen and (max-width: 768px) {
+    .BoxIframe {
+        height: 365px;
+    }
+}
+
+.BoxHNN {
+    position: relative;
+    z-index: 2
+}
+
+.media {
+    margin-top: 15px
+}
+
+.description a {
+    color: #222;
+    transition: .3s
+}
+
+.description a:hover {
+    color: #a1a1a1
+}
+
+.ui-widget-content {
+    border: 1px solid #ddd;
+    background: url(component/images/ui-bg_highlight-soft_100_eeeeee_1x100.png?1508191135) 50% top repeat-x #eee;
+    color: #333
+}
+
+.ui-widget-content a {
+    color: #333
+}
+
+.StarRating {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 25px;
+    position: relative;
+    background: url(images/star-vote.png?1508191135) top left repeat-x
+}
+
+.StarRating li a, .StarRating li.CurrentRating {
+    position: absolute;
+    height: 26px;
+    text-indent: -9000px;
+    display: block
+}
+
+.StarRating li {
+    padding: 0;
+    margin: 0;
+    float: left;
+    text-indent: -9000px
+}
+
+.StarRating li.One {
+    width: 20px
+}
+
+.StarRating li.Two {
+    width: 40px
+}
+
+.StarRating li.Three {
+    width: 60px
+}
+
+.StarRating li.Four {
+    width: 80px
+}
+
+.StarRating li.Five {
+    width: 100px
+}
+
+.StarRating li a {
+    width: 20px;
+    z-index: 20;
+    padding: 0;
+    overflow: hidden;
+    outline: 0;
+    border: 0
+}
+
+.StarRating li a:hover {
+    background: url(images/star-vote.png?1508191135) left bottom;
+    z-index: 2;
+    left: 0
+}
+
+.StarRating a.OneStar, .StarRating li.OneStar {
+    left: 0
+}
+
+.StarRating a.OneStar:hover {
+    width: 20px
+}
+
+.StarRating a.TwoStars, .StarRating li.TwoStars {
+    left: 20px
+}
+
+.StarRating a.TwoStars:hover {
+    width: 40px
+}
+
+.StarRating a.ThreeStars, .StarRating li.ThreeStars {
+    left: 40px
+}
+
+.StarRating a.ThreeStars:hover {
+    width: 60px
+}
+
+.StarRating a.FourStars, .StarRating li.FourStars {
+    left: 60px
+}
+
+.StarRating a.FourStars:hover {
+    width: 80px
+}
+
+.StarRating a.FiveStars, .StarRating li.FiveStars {
+    left: 80px
+}
+
+.StarRating a.FiveStars:hover {
+    width: 100px
+}
+
+.StarRating li.CurrentRating {
+    background: url(images/star-vote.png?1508191135) left center;
+    z-index: 1
+}
+
+.StarRating-warning {
+    font-size: smaller;
+    color: maroon
+}
+
+.pagination .page {
+    border-radius: 3px;
+    background: #e1e1e1;
+    color: #222;
+    padding: 5px 9px;
+    font-size: 11px
+}
+
+.pagination .page, .pagination span.dots {
+    margin-right: 4px
+}
+
+.pagination span.dots {
+    color: #999;
+    padding: 5px 0
+}
+
+.pagination .page.active, .pagination .page.gradient:hover, .pagination .page:hover {
+    background: #258f80;
+    color: #fff
+}
+
+.pagination .page.active {
+    border: none
+}
+
+.pagination .page.gradient {
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#f8f8f8), to(#e9e9e9));
+    background: -moz-linear-gradient(0 0 270deg, #f8f8f8, #e9e9e9)
+}
+
+.pagination.pagination-dark {
+    color: #feffff
+}
+
+.pagination.pagination-dark .page {
+    border: 1px solid #32373b;
+    background: #3e4347;
+    box-shadow: inset 0 1px 1px rgba(255, 255, 255, .1), 0 1px 3px rgba(0, 0, 0, .1);
+    color: #feffff;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, .5)
+}
+
+.pagination.pagination-dark .page.gradient:hover, .pagination.pagination-dark .page:hover {
+    background: #3d4f5d;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#547085), to(#3d4f5d));
+    background: -moz-linear-gradient(0 0 270deg, #547085, #3d4f5d)
+}
+
+.pagination.pagination-dark .page.active {
+    border: none;
+    background: #2f3237;
+    box-shadow: inset 0 0 8px rgba(0, 0, 0, .5), 0 1px 0 rgba(255, 255, 255, .1)
+}
+
+.pagination.pagination-dark .page.gradient {
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#565b5f), to(#3e4347));
+    background: -moz-linear-gradient(0 0 270deg, #565b5f, #3e4347)
+}
+
+.BtnConts {
+    border-top: solid 1px #f2f2f2;
+    padding-top: 20px;
+    margin-top: 20px
+}
+
+.BtnConts a {
+    background: #dcdcdc;
+    line-height: 31px;
+    padding: 0 10px;
+    color: #000;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 0 auto
+}
+
+.BtnConts a:hover {
+    color: #e04f82
+}
+
+.NotificationList img.Loading {
+    margin: 0 auto;
+    width: auto;
+    display: block;
+    float: none;
+    padding-bottom: 20px
+}
+
+.Following, .follow {
+    padding: 3px;
+    color: #fff !important;
+    font-size: 18px;
+    line-height: 38px;
+    display: block;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    transition: .3s;
+    text-align: center
+}
+
+.Following {
+    background-color: #29C8AC;
+    background-image: url(images/bookchecked.png);
+    background-position: 182px 7px;
+    opacity: .7
+}
+
+.follow {
+    background-color: #14BEA0;
+    background-image: url(images/bookbig.png);
+    background-position: 165px 7px
+}
+
+.follow:hover {
+    background-color: #29C8AC
+}
+
+.table-responsive {
+    overflow-x: visible !important
+}
+
+.image_circle {
+    border-radius: 50%;
+    width: 100px;
+    max-height: 100px
+}
+
+.image_follow {
+    width: 78px;
+    height: 117px
+}
+
+.descripfix {
+    margin: 0 !important
+}
+
+.likeshare-fb {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0
+}
+
+.likeshare-fb ul {
+    overflow: hidden;
+    margin: 0 auto;
+    -moz-padding-start: 0;
+    -webkit-padding-start: 0;
+    display: inline-block
+}
+
+.likeshare-fb ul li {
+    float: left;
+    margin: 0 10px 10px 0;
+    list-style: none
+}
+
+.LeftArrow.Off, .LeftArrow.Off:hover, .RightArrow.Off, .RightArrow.Off:hover {
+    opacity: .4;
+    cursor: default
+}
+
+.list-unstyled {
+    margin-bottom: 0 !important
+}
+
+.mainpage-manga, .searchlist-items {
+    margin-bottom: 10px
+}
+
+.OtherText {
+    text-align: center
+}
+
+.OtherText img {
+    max-width: 100%;
+}
+
+.contain-error {
+    margin-top: 47px
+}
+
+.error-image {
+    margin-top: 15px;
+    text-align: center
+}
+
+.text-eror {
+    margin-top: 80px
+}
+
+.text-eror h3 {
+    font-size: 70px;
+    color: #0e977f;
+    text-transform: uppercase
+}
+
+.text-eror p {
+    color: #222;
+    font-size: 20px
+}
+
+.text-eror a {
+    padding: 10px;
+    background-color: #0e977f;
+    color: #fff;
+    display: block;
+    width: 140px;
+    text-align: center
+}
+
+.text-eror a:hover {
+    color: #fff
+}
+
+.ui-autocomplete {
+    width: 100% !important;
+    position: absolute !important;
+    left: -5px !important;
+    background: rgba(255, 255, 255, 1);
+    z-index: 1000;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, .75);
+    -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, .75);
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .75);
+    max-height: 600px;
+    overflow-y: scroll;
+    padding: 0;
+    margin: 0
+}
+
+.noel, .tet {
+    z-index: 9999;
+    min-height: 40px
+}
+
+.ui-autocomplete li {
+    padding: 3px 10px;
+    cursor: pointer;
+    list-style-type: none
+}
+
+.ui-autocomplete li.ui-state-focus {
+    background: #372D3F;
+    color: #fff
+}
+
+.search-width {
+    width: 200px;
+    margin: 0 auto
+}
+
+.searchpaddfix {
+    margin-right: 15px
+}
+
+.topfixpadd {
+    padding-left: 0 !important;
+    padding-right: 0 !important
+}
+
+.viewmore-button {
+    text-align: right
+}
+
+.BoxADV2, .install-now a, .nav-tabs > li > a, .tet .Login, .top-qcmobile, .top2nd-qc {
+    text-align: center
+}
+
+.viewmore-button a {
+    color: #0e977f
+}
+
+.viewmore-button i {
+    margin-left: 5px
+}
+
+.noel {
+    background: url(../images/bg-noel.png) center center no-repeat #275227;
+    -webkit-transition: all .3s ease-out 0s;
+    -moz-transition: all .3s ease-out 0s;
+    -o-transition: all .3s ease-out 0s;
+    transition: all .3s ease-out 0s
+}
+
+.tet {
+    background: url(../images/bg-tet.jpg) center center no-repeat #275227;
+    -webkit-transition: all .3s ease-out 0s;
+    -moz-transition: all .3s ease-out 0s;
+    -o-transition: all .3s ease-out 0s;
+    transition: all .3s ease-out 0s
+}
+
+.tet .navbar-nav > li > a {
+    line-height: 16px;
+    margin: 5px 9px 0 0;
+    padding: 8px 20px 8px 10px;
+    background: #F36F12;
+    border-radius: 3px
+}
+
+.tet .dropdown-menu {
+    background: #F36F12;
+    border: none;
+    top: 97%;
+    min-width: 420px
+}
+
+.tet .Login {
+    margin-top: 5px;
+    color: #fff;
+    font-size: 15px;
+    background: 0 0;
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px
+}
+
+.closed-martop, .update-martop {
+    margin-top: 0 !important;
+}
+
+.android-avd {
+    margin-top: 46px;
+    position: relative
+}
+
+.closedtab-icon {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    z-index: 99
+}
+
+.closedtab-icon span {
+    border-radius: 50%;
+    background: #222;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: block;
+    cursor: pointer
+}
+
+.LeftBanner img, .top-qc img {
+    width: 100%
+}
+
+.vechai-appinfo {
+    padding: 10px;
+    color: #fff;
+    z-index: 2
+}
+
+.vechai-appinfo span {
+    font-size: 22px;
+    color: #fff
+}
+
+.vechai-appinfo p {
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #ccc
+}
+
+.install-now a {
+    color: #fff !important;
+    padding: 5px 10px;
+    font-size: 25px;
+    display: block;
+    text-transform: uppercase;
+    margin: 25px auto
+}
+
+.top-qc, .top-qcmobile {
+    margin-top: 10px;
+    margin-bottom: 0
+}
+
+.paddingnone {
+    padding-left: 0 !important;
+    padding-right: 0 !important
+}
+
+.top-qcmobile {
+    display: none
+}
+
+.BoxADV2 iframe {
+    margin: 0 auto
+}
+
+.qc-martop {
+    margin-top: 10px
+}
+
+.LeftBanner, .LeftBanner-chapter, .RightBanner, .RightBanner-chapter {
+    z-index: 1000;
+    position: absolute;
+    margin-left: 0;
+    width: 120px
+}
+
+.LeftBanner {
+    top: -54px;
+    left: -110px
+}
+
+.LeftBanner-chapter {
+    top: 25px;
+    left: -110px
+}
+
+.RightBanner {
+    top: -54px;
+    right: -110px
+}
+
+.RightBanner-chapter {
+    top: 25px;
+    right: -110px
+}
+
+.top2nd-qc {
+    width: 100%;
+    overflow: hidden
+}
+
+.top2nd-qc iframe {
+    margin: 0 auto
+}
+
+.bgandroid-app {
+    background: #666
+}
+
+.fb-comment {
+    margin-bottom: 15px;
+    padding: 0;
+    background:#fff;
+}
+
+/*.nav-tabs > li > a:hover {
+    color: #0e977f
+}
+
+.nav-tabs > li.active > a {
+    color: #0e977f !important
+}*/
+
+.place-order {
+    cursor: pointer;
+    margin-bottom: 0
+}
+
+.place-order .glyphicon {
+    font-size: 8px;
+    margin-left: 3px
+}
+
+.bgposition-relative {
+    position: relative
+}
+
+/*.tab-content {
+    border: 1px solid #fba500;
+    border-top: 0 solid transparent;
+    padding: 5px 10px
+}*/
+
+/*.nav-tabs {
+    border-bottom: 1px solid #fba500 !important
+}
+
+.nav-tabs > li {
+    width: 49.9%;
+    margin-bottom: -1px !important
+}
+
+.nav-tabs > li > a:hover {
+    background-color: transparent !important;
+    border: 1px solid transparent !important
+}
+
+.nav-tabs > li.active > a:hover {
+    border: 1px solid #fba500 !important;
+    background-color: #fff !important;
+    border-bottom: 1px solid transparent !important
+}
+
+.nav-tabs > li > a {
+    transition: .3s;
+    color: #222;
+    font-size: 17px;
+    margin-right: 0 !important
+}
+
+.nav-tabs > li.active > a {
+    border: 1px solid #fba500 !important;
+    border-bottom-color: transparent !important
+}*/
+
+.signup-button a {
+    font-size: 15px;
+    color: #fff !important;
+    background: #0e977f;
+    padding: 3px 10px;
+    transition: .3s
+}
+
+.signup-button a:hover {
+    background: #14BEA0
+}
+
+.signup-button a i {
+    margin-right: 5px
+}
+
+.navbar-header h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    float: left
+}
+
+.vechai-icon {
+    margin-top: 6px
+}
+
+.vechai-icon img {
+    width: 130px
+}
+
+#balloon-ads {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    height: 250px;
+    z-index: 100000;
+    border: 1px solid #000;
+    background: #FFFFFF;
+}
+
+@media only screen and (max-width: 600px) {
+    #balloon-ads {
+        display: none
+    }
+}
+
+#balloon-ads .balloon-close-button {
+    color: #1E202A;
+    background: #FFFFFF;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 11;
+    font-size: 20px;
+    padding: 5px
+}
+
+#balloon-ads .balloon-close-button:hover {
+    background: #1E202A;
+    color: #FFFFFF;
+    cursor: pointer
+}
+
+/* line 446, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment {
+    background:#fff;
+    width: 100%;
+    padding: 15px;
+    margin-top: 0;
+}
+/* line 449, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .cmtsecont {
+    margin-right: 5px;
+    position: relative;
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif; }
+/* line 454, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .cmtsecont span {
+    font-size: 13px;
+    color: #3b5998;
+    cursor: pointer; }
+/* line 458, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .cmtsecont span i {
+    margin-right: 5px; }
+/* line 463, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .cmtsecont .alt-tab {
+    cursor: default;
+    margin: 0px 6px; }
+/* line 467, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .cmtsecont .icon-like {
+    background-image: url("images/icon/sprite-v1.svg");
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 15px;
+    background-position: -314px -75px;
+    display: inline-block;
+    margin-right: 2px; }
+/* line 477, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-boxarea {
+    margin-left: 60px; }
+/* line 480, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-boxarea .area-comment textarea {
+    width: 100%;
+    height: 70px;
+    outline: none;
+    padding: 6px 9px;
+    overflow: hidden;
+    display: block;
+    resize: none;
+    box-sizing: border-box;
+    border-bottom: none;
+    border: 1px solid #ccc;
+    border-bottom: 0px solid transparent; }
+/* line 494, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-boxarea .buttom-comment {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    text-align: right;
+    background: #f6f7f8;
+    margin-top: -1px; }
+/* line 500, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-boxarea .buttom-comment .button-submit {
+    color: #fff;
+    background-color: #cb0000;
+    padding: 2px 5px;
+    margin-bottom: 0;
+    border: 1px solid #cb0000;
+    display: inline-block;
+    text-align: center;
+    font-weight: 600;
+    box-shadow: none;
+    font-family: Helvetica, Arial, sans-serif;
+    outline: none; }
+/* line 514, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .add-cmt {
+    display: none; }
+/* line 518, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-total h3 {
+    display: table-cell;
+    width: 1%;
+    font-family: Helvetica, Arial, sans-serif; }
+/* line 524, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-area {
+    margin-top: 15px; }
+/* line 526, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-area .avat-image {
+    float: left;
+    overflow: hidden; }
+/* line 529, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-area .avat-image img {
+    width: 48px;
+    height: 48px; }
+/* line 535, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 15px; }
+/* line 540, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .avacm-img {
+    float: left;
+    overflow: hidden;
+    margin-top: 4px; }
+/* line 544, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .avacm-img img {
+    width: 48px;
+    height: 48px; }
+/* line 549, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .comment-boxarea {
+    margin-left: 60px; }
+/* line 551, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .comment-boxarea .comment-account {
+    color: #3b5998;
+    font-weight: 600;
+    font-family: Helvetica, Arial, sans-serif; }
+/* line 556, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .comment-boxarea .comment-contain {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: Helvetica, Arial, sans-serif; }
+/* line 563, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .comment-second {
+    margin-top: 10px;
+    margin-bottom: 15px; }
+/* line 567, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .comment-second .section-second {
+    border-bottom: 0px solid transparent; }
+/* line 571, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .loadMore-second {
+    margin-left: 60px;
+    margin-top: 10px;
+    cursor: pointer;
+    background: #EEE;
+    padding: 5px;
+    color: #3b5998;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400; }
+/* line 580, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .comment-section .loadMore-second span {
+    margin-left: 5px; }
+/* line 585, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .loadMore {
+    border: 1px solid #3b5998;
+    color: #3b5998;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 10px auto;
+    padding: 5px;
+    text-align: center;
+    transition: .3s ease-in-out; }
+/* line 596, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .loadMore span {
+    margin-left: 5px; }
+/* line 600, E:/Git/Kul news logo/app/styles/life.scss */
+.post-comment .loadMore:hover {
+    background: #3b5998;
+    color: #fff; }
+.nav-sticker li img {
+    width:40px;
+}
+.nav-sticker li a {
+    height:50px;
+    position: relative;
+}
+.sticker-tooltip {
+    position: absolute !important;
+    bottom: 0;
+    left: 0;
+    width: 65px !important;
+    background: #343434 !important;
+    font-size: 11px !important;
+    padding: 3px !important;
+    text-align: center !important;
+    color: #fff !important;
+    display:none;
+    transition:.3s ease-in-out !important;
+    overflow: hidden;
+}
+.nav-sticker li a:hover > .sticker-tooltip {
+    display: block;
+}
+.tab-content
+{
+    border-top:1px solid #dcdcdc !important;
+}
+.cke_contents
+{
+    height: 150px !important;
+}
+.tab-content>.active {
+    border:1px solid #ddd;
+    border-top:none;
+}
+.sticker-center {
+    text-align: center !important;
+    margin:20px !important;
+    float: left !important;
+}
+.sticker-contain {
+    height:300px !important;
+    overflow-x:scroll;
+}
+.sticker-contain ul {
+    padding:0;
+    margin:15px !important;
+}
+.none-margin {
+    margin-left:0 !important;
+    margin-right:0 !important;
+}
+.comment-tab {
+    margin-bottom:20px;
+}
+.comment-tab .tab-pane {
+    border:none;
+}
+.comment-option li a {
+    color:#fff ;
+    text-transform: uppercase !important;
+    font-size:16px !important;
+    cursor:pointer !important;
+    position:relative !important;
+}
+.comment-option li a:hover, .comment-option li a:focus {
+    background-color: #eee;
+    color:#343434;
+}
+.comment-option {
+    margin-top:10px;
+}
+.comment-option li:last-child a {
+    padding-right:30px;
+}
+.fb-icon {
+    background:url('./images/facebook-icon-preview-1.png') center center no-repeat;
+    background-size: 20px;
+    background-color: #fff;
+    position: absolute;
+    top: 13px;
+    right: 11px;
+    width: 14px;
+    height: 14px;
+}
+#gmTrackIFrame {
+    float: left;
+}~+;ãu      Z[2AZ[1›>¡WÑZd^é   4    :http://cdn.truyentranh.net/frontend/app.css?v=10.67 necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Sun, 14 Jan 2018 09:35:38 GMT
+Content-Type: text/css
+Content-Length: 57662
+Last-Modified: Wed, 28 Jun 2017 04:40:43 GMT
+ETag: "5953334b-e13e"
+Accept-Ranges: bytes
+ original-response-headers Server: nginx/1.10.3 (Ubuntu)
+Date: Sun, 14 Jan 2018 09:35:38 GMT
+Content-Type: text/css
+Content-Length: 57662
+Last-Modified: Wed, 28 Jun 2017 04:40:43 GMT
+Connection: keep-alive
+ETag: "5953334b-e13e"
+Accept-Ranges: bytes
+ uncompressed-len 0 net-response-time-onstart 204 net-response-time-onstop 373   á>
